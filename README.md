@@ -9,3 +9,6 @@ If (you understand) {
     say yes
 }else 
     say no
+
+yes
+I do understand you fineshyt
